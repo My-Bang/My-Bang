@@ -35,12 +35,14 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=mailto:bymin2733@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bymin2733@gmail.com"> </a>
+    <div style="text-align: left;"> 
+        <a href=mailto:bymin2733@gmail.com> 
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bymin2733@gmail.com"> 
+        </a>
+        <a href="https://www.notion.so/24a79777a02f809aab66eaa20574eb50?source=copy_link" target="_blank">
+            <img src="https://img.shields.io/badge/📄%20이력서%20(노션)-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Resume in Notion">
+        </a>
     </div> <br> 
- <div style="text-align: left;">  </div> </div> 
+</div>
 
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=My-Bang&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
-    </div>
     
