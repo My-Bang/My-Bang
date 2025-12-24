@@ -39,7 +39,7 @@
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bymin2733@gmail.com"> 
         </a>
         <a href="https://www.notion.so/24a79777a02f809aab66eaa20574eb50?source=copy_link" target="_blank">
-            <img src="https://img.shields.io/badge/📄%20이력서%20(노션)-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Resume in Notion">
+            <img src="https://img.shields.io/badge/📄%20포트폴리오%20(노션)-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Resume in Notion">
         </a>
     </div> <br> 
 </div>
